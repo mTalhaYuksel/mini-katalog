@@ -57,6 +57,7 @@ lib/
 
 ## Notlar
 
+
 - `lib/data/mock_products.dart` içindeki veriler eğitim amaçlı simüle
   edilmiştir. Gerçek bir API ile denemek isterseniz raporda önerilen
   Fake Store API (`https://fakestoreapi.com/products`) veya DummyJSON
@@ -65,6 +66,7 @@ lib/
 
 ## Ekran Görüntüleri
 
-Ekran görüntülerini `flutter run` sonrası cihaz/emulator üzerinden alıp
-bu bölüme veya ayrı bir `screenshots/` klasörüne ekleyebilirsiniz
-(teslim kriteri gereği).
+<img width="402" height="831" alt="flutt1" src="https://github.com/user-attachments/assets/2ca60d82-55f3-49f8-8cb3-27343eb3b0f7" />
+<img width="386" height="826" alt="flutt" src="https://github.com/user-attachments/assets/28dbb95b-7e06-41e6-8e65-aefe7d947c0f" />
+<img width="390" height="828" alt="flutt2" src="https://github.com/user-attachments/assets/66dc242a-a3bb-45af-8bec-64f695188001" />
+
