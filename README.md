@@ -46,14 +46,14 @@ lib/
 
 ## Özellikler (Proje Çıktıları)
 
-- [x] Çalışan bir "Mini Katalog Uygulaması"
-- [x] Ana sayfa – ürün listesi – ürün detayı ekran yapısı
-- [x] Sayfa geçişleri (Navigator)
-- [x] Route Arguments kullanımı
-- [x] GridView ile kart tabanlı tasarım
-- [x] Basit state güncelleme örneği (sepete ekleme/çıkarma)
-- [x] Proje klasör yapısının doğru kullanımı
-- [x] Basit arama/filtreleme mantığı
+-  Çalışan bir "Mini Katalog Uygulaması"
+-  Ana sayfa – ürün listesi – ürün detayı ekran yapısı
+-  Sayfa geçişleri (Navigator)
+-  Route Arguments kullanımı
+-  GridView ile kart tabanlı tasarım
+-  Basit state güncelleme örneği (sepete ekleme/çıkarma)
+-  Proje klasör yapısının doğru kullanımı
+-  Basit arama/filtreleme mantığı
 
 ## Notlar
 
